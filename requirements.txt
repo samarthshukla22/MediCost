@@ -3,5 +3,5 @@ pandas
 Matplotlib
 seaborn
 streamlit
-sklearn
+scikit-learn
 pickle
